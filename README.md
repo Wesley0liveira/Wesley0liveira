@@ -7,8 +7,6 @@ Meu nome é Wesley Oliveira
 
 Conhecimento em Java, PHP, HTML,CSS, Javascript.
 
-Capaz de me adaptar a novas tecnologias e linguagens de programação.
-
 Fácil adaptação a novas linguagens, técnologias e metodologias de trabalho.
 
 💻Estou aprendendo Power BI para Data Science.
